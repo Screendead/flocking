@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "gulp",
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.9",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "jest": "^27.5.1",
+    "p5": "^1.4.1"
+  }
+}
